@@ -11,7 +11,7 @@
   "branch": {
     "count": 5,
     "private": true,
-    "branch_codes": ["hydra_X", "hydra_Y", "hydra_Z"],
+    "branchCodes": ["hydra_X", "hydra_Y", "hydra_Z"],
     "subBranch": {
       "count": 2,
       "status": "CLOSED"
