@@ -1,49 +1,49 @@
 {
   "name": "hydra",
   "email": "hydra@2023.com",
-  "birthYear": 2023,
-  "version": 1,
+  "birth_year": 2023,
+  "version": 2,
   "address": {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "postCode": 1212
+    "post_code": 1212
   },
   "branch": {
     "count": 5,
     "private": true,
-    "subBranch": {
+    "sub_branch": {
       "count": 2,
       "status": "CLOSED"
     }
   },
   "data": {
     "location": "Dhaka",
-    "listName": "branch",
-    "lastUpdated": "2020-11-01 03:25:30",
+    "list_name": "branch",
+    "last_updated": "2020-11-01 03:25:30",
     "list": [
       {
-        "branchId": 10,
-        "branchName": "hydra_10_Y",
+        "branch_id": 10,
+        "branch_name": "hydra_10_Y",
         "status": "OPEN"
       },
       {
-        "branchId": 11,
-        "branchName": "hydra_11_Y",
+        "branch_id": 11,
+        "branch_name": "hydra_11_Y",
         "status": "OPEN"
       },
       {
-        "branchId": 12,
-        "branchName": "hydra_12_X",
+        "branch_id": 12,
+        "branch_name": "hydra_12_X",
         "status": "CLOSED"
       },
       {
-        "branchId": 13,
-        "branchName": "hydra_13_X",
+        "branch_id": 13,
+        "branch_name": "hydra_13_X",
         "status": "OPEN"
       },
       {
-        "branchId": 14,
-        "branchName": "hydra_14_Z",
+        "branch_id": 14,
+        "branch_name": "hydra_14_Z",
         "status": "CLOSED"
       }
     ]
