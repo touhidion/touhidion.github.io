@@ -3,6 +3,7 @@
   "email": "hydra@2023.com",
   "birth_year": 2023,
   "version": 2,
+  "lts": 1.6,
   "address": {
     "city": "Dhaka",
     "country": "Bangladesh",
