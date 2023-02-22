@@ -36,12 +36,12 @@
       {
         "branchId": 12,
         "branchName": "hydra_12_X",
-        "status": "CLOSED"
+        "status": "OPEN"
       },
       {
         "branchId": 13,
         "branchName": "hydra_13_X",
-        "status": "OPEN"
+        "status": "CLOSED"
       },
       {
         "branchId": 14,
