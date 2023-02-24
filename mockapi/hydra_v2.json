@@ -26,17 +26,20 @@
       {
         "branch_id": 10,
         "branch_name": "hydra_10_Y",
-        "status": "OPEN"
+        "status": "OPEN",
+        "location": "Dhaka"
       },
       {
         "branch_id": 11,
         "branch_name": "hydra_11_Y",
         "status": "OPEN"
+        "location": "Dhaka"
       },
       {
         "branch_id": 12,
         "branch_name": "hydra_12_X",
         "status": "OPEN"
+        "location": "Dhaka"
       },
       {
         "branch_id": 13,
@@ -47,6 +50,7 @@
         "branch_id": 14,
         "branch_name": "hydra_14_Z",
         "status": "CLOSED"
+        "location": ""
       }
     ]
   }
