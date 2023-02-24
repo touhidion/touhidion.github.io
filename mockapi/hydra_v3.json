@@ -25,7 +25,9 @@
   "data": {
     "location": "Dhaka",
     "list_name": "branch",
-    "last_updated": "2020-11-01 03:25:30",
+    "last_updated": "2020-11-01",
+    "created_in": "2019-11-25 21:00:00+06:00",
+    "released_in": "2019-11-25T21:00:00+06:00",
     "list": [
       {
         "branch_id": 10,
