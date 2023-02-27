@@ -99,7 +99,6 @@
         "branch_id": 13,
         "branch_name": "hydra_13_X",
         "status": "CLOSED",
-        "location": "Dhaka",
         "sub_branch_data": {
           "location": "Dhaka",
           "list_name": "sub_branch",
@@ -121,7 +120,7 @@
         "branch_id": 14,
         "branch_name": "hydra_14_Z",
         "status": "CLOSED",
-        "location": "Dhaka",
+        "location": "",
         "sub_branch_data": {
           "location": "Dhaka",
           "list_name": "sub_branch",
